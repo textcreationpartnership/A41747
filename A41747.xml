@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Grampius congratulation in plain Scots language to His Majesties thrise happy return</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41747</idno>
+            <idno type="STC">Wing G1482</idno>
+            <idno type="STC">ESTC R219880</idno>
+            <idno type="EEBO-CITATION">99831327</idno>
+            <idno type="PROQUEST">99831327</idno>
+            <idno type="VID">35790</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2049:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Grampius congratulation in plain Scots language to His Majesties thrise happy return</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed anno Dom. 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the Edinburgh University Library, Edinburgh.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35790:1" rendition="simple:additions"/>
+            <p>GRAMPIUS CONGRATULATION In plain SCOTS LANGUAGE TO HIS MAJESTIES Thriſe Happy Return.</p>
+            <p>Printed <hi>Anno Dom.</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:35790:2"/>
+            <pb n="3" facs="tcp:35790:2"/>
+            <head>GRAMPIUS CONGRATULATION To His Majeſties thriſe happy Return.</head>
+            <head type="sub">A SCOTS Rime.</head>
+            <lg>
+               <l>OF twelve ſad years, one tedious night</l>
+               <l>We'ave had, and now the day grows light,</l>
+               <l>Our Sun is up, awake my Muſe,</l>
+               <l>Thy drouſineſſe I'le not excuſe.</l>
+               <l>We have been dead, and now we live</l>
+               <l>Again, and ſhall we no thanks give?</l>
+               <l>In our next life, if we give none</l>
+               <l>To God, Why Reſurrection?</l>
+            </lg>
+            <lg>
+               <l>Are we redeem'd then from the tears</l>
+               <l>And torments of theſe twenty years?</l>
+               <l>And from th' Egyptian bondage free?</l>
+               <l>And are we all paſt the Red ſea?</l>
+               <l>And ſhall not one midſt all this Throng</l>
+               <l>Remember upon <hi>Moſes</hi> Song?</l>
+               <l>Let this be <hi>Purim</hi> to our Prieſts,</l>
+               <l>Although our Church allow no Fieſts.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:35790:3"/>
+               <l>But <hi>Bacchus</hi> She prieſts here we bar,</l>
+               <l>Our mirth with fury we'll not mar,</l>
+               <l>Let them their Trietericks vent</l>
+               <l>To a Triennial Parliament.</l>
+               <l>And ſince profane men are diſcharg'd,</l>
+               <l>(By him for whoſe cauſe we're enlarg'd)</l>
+               <l>Ranting 'gainſt the dead Commonwealth,</l>
+               <l>Or drinking their own Maſters health,</l>
+               <l>Whom they ſo by their rude louſe tongue</l>
+               <l>More than their hands could help, did wrong:</l>
+               <l>What ſhall we, poor we, do that dwell</l>
+               <l>By <hi>Chyrra,</hi> and <hi>Agamppe</hi> well?</l>
+               <l>What if we mirrie made by water,</l>
+               <l>Mingled with <hi>Enthean</hi> fire ſhall clatter?</l>
+               <l>No Treaſon's here: our noiſe and din.</l>
+               <l>Shall greater be far than our ſin.</l>
+            </lg>
+            <lg>
+               <l>Were we not then all this paſt while,</l>
+               <l>
+                  <hi>Cimmerians</hi> ſince our Kings exile?</l>
+               <l>Have we not liv'd in Holes and Caves?</l>
+               <l>And dig'd in Minerals like ſlaves?</l>
+               <l>To pay th'uſurpers of the Crown?</l>
+               <l>And buy Swords t' had our Selves down?</l>
+               <pb n="5" facs="tcp:35790:3"/>
+               <l> But now ſince <hi>Jove</hi> amongſt us Feiſts,</l>
+               <l>Like th' honeſt <hi>Corybantes</hi> Prieſts,</l>
+               <l>Let's Leap and Daunce all in a round,</l>
+               <l>Our Heads ſhake, and our Cymbals ſound,</l>
+               <l>Till the <hi>French</hi> follow this our folly,</l>
+               <l>Who pitied not our Melancholy.</l>
+            </lg>
+            <lg>
+               <l>With God, our King a God we'll call,</l>
+               <l>More's in Him than our Armies all:</l>
+               <l>They brought us Toil and Husks for diet,</l>
+               <l>He Milk and Hony with much quiet:</l>
+               <l>When we by War our Peace did mar,</l>
+               <l>Then <hi>Nole</hi> ſought Peace by 'nlawful War.<note place="margin">
+                     <q xml:lang="lat">Pa<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> quaeri<gap reason="illegible" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 
+                        <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ello.</q>
+                  </note>
+               </l>
+               <l>But ſtill behov'd he to keep's under,</l>
+               <l>And we muſt Pay or he muſt Plunder.</l>
+            </lg>
+            <lg>
+               <l>Five ſeveral times the <hi>Scots</hi> made head</l>
+               <l>To make amends for one miſdead;</l>
+               <l>Five times our Fire ſtill turn'd to ſmoak,</l>
+               <l>And all the Kingdoms bore the yoak:</l>
+               <l>But what was in this wondrous thing?</l>
+               <l>Strong Armies could not help the King,</l>
+               <l>Nor reſcue from Hells yauning jawes</l>
+               <l>Religion, Liberty, and Lawes.</l>
+               <pb n="6" facs="tcp:35790:4"/>
+               <l> Was't not becauſe ſtill <hi>Achan</hi>'s wedge</l>
+               <l>Was by ſome of us kept in pledge?</l>
+               <l>And the curſd thing was never purg'd,</l>
+               <l>So the poor People ay were ſcourg d.</l>
+            </lg>
+            <lg>
+               <l>And with the truth if we may jump,</l>
+               <l>Our <hi>Scots</hi> Houſe ſometimes had its Rump,</l>
+               <l>And likewiſe a fanatick blood</l>
+               <l>Made ſome heads think that ill was good.</l>
+               <l>But now that brain-ſickneſſe, (great odds)</l>
+               <l>Is turn'd down to an Emerauds:</l>
+            </lg>
+            <lg>
+               <l>So if our Royal Doctor pleaſe,</l>
+               <l>To obviat the like diſeaſe,</l>
+               <l>Let us be purg'd, and Leeches ſet,</l>
+               <l>While th' ill is at our Poſtern gate,</l>
+               <l>Leſt it break back again, and breed</l>
+               <l>Some new diſtemper to the head.</l>
+            </lg>
+            <lg>
+               <l>The body of the Land, like men</l>
+               <l>Condemn'd, and then repriv'd again</l>
+               <l>By the griev'd Party, taſte ſome grief</l>
+               <l>Mixt with the joy of their relief:</l>
+               <l>And were it not this weight did ſtill us,</l>
+               <l>The extaſie of joy would kill us:</l>
+               <pb n="7" facs="tcp:35790:4"/>
+               <l> We grieve, our interpriſes miſſ'd</l>
+            </lg>
+            <lg>
+               <l>The ſucceſſe which our Souls had wiſh'd;</l>
+               <l>That our efforts made to repone</l>
+               <l>The King, had thus fail'd one by one.</l>
+               <l>VVhen the Reſtorer from us went,</l>
+            </lg>
+            <lg>
+               <l>He knew this by our hearts conſent</l>
+               <l>In offers free: And yet we wring</l>
+               <l>Our hands, that our ſelves did not bring</l>
+               <l>The King home: But ſince he's home brought,</l>
+               <l>Theirs be the <hi>Guerdon</hi> vvho beſt vvrought.</l>
+               <l>Whither we take the work from Heaven,</l>
+            </lg>
+            <lg>
+               <l>Or adde it to the wonders ſeaven,</l>
+               <l>Or learn, that <hi>England</hi> never vvould</l>
+               <l>Take King, nor Reformation hold</l>
+               <l>Of us, Let us be well content</l>
+               <l>T' applaud unto the Inſtrument.</l>
+               <l>
+                  <hi>George</hi> whom ill loſ'd, we all confeſſe;</l>
+               <l>By providence was nothing leſſe.</l>
+            </lg>
+            <lg>
+               <l>He ſerv'd in <hi>Egypt;</hi> ſo it fell,</l>
+               <l>He proves the prope of <hi>Iſrael.</hi>
+               </l>
+               <l>He is our <hi>David,</hi> and he took</l>
+               <l>But five ſmall ſling-ſtones from the brook;</l>
+               <pb n="8" facs="tcp:35790:5"/>
+               <l> And with the G'ants own ſword indeed,</l>
+               <l>He hath cut off <hi>Goliah's</hi> head.</l>
+            </lg>
+            <lg>
+               <l>His Club hath made more Monſters fall,</l>
+               <l>Than <hi>Hercules</hi> his Labours all.</l>
+               <l>He hath the <hi>Hydra's</hi> heads down born,</l>
+               <l>And gives us <hi>Achelous</hi> horn.</l>
+               <l>Of <hi>Philiſtines</hi> a greater crew</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A'has</hi> quaſh'd, than ever <hi>Samſon</hi> ſlew.</l>
+               <l>His finger hath drawn down their houſe,</l>
+               <l>And yet both ſav'd himſelf and us.</l>
+               <l>
+                  <hi>Thraſibulus</hi> he hath excel'd,</l>
+            </lg>
+            <lg>
+               <l>Though thirty Tyrants he expel'd.</l>
+               <l>And this act ſhall Eclipſe the Glory</l>
+               <l>Of old Saint <hi>George</hi> his Legend Story,</l>
+               <l>As far's the King's and Kingdoms three,</l>
+               <l>Outvies a poor Maids jeopardie.</l>
+               <l>And of all thoſe, though brave and good,</l>
+               <l>Not one like this was done but blood.</l>
+               <l>Then; to Heaven's let us praiſes ſing,</l>
+               <l>Thank <hi>George,</hi> and Pray, <hi>God Save the King.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
